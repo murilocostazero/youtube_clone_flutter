@@ -1,16 +1,7 @@
 # youtube_clone_flutter_app
 
-A new Flutter project.
+<p>Youtube application clone made in flutter. The app has educational purposes and contains only the features of searching and playing videos (pages/Api.dart).
+You need a youtube api key and a channel id for searches to be done.
+Feel free to clone the project, study it or improve it.</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://ibb.co/5v0Gg9h"><img src="https://i.ibb.co/ctBkSvh/Viva-Cut-video-1632006247624.gif" width="600" height="600" alt="Viva-Cut-video-1632006247624" border="0"></a>
