@@ -4,7 +4,6 @@
 You need a youtube api key and a channel id for searches to be done.
 Feel free to clone the project, study it or improve it.</p>
 
-<video width="500" height="500" autoplay controls>
-  <source src="https://vimeo.com/608987752" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<a href="https://ibb.co/YcnsRmf"><img src="https://i.ibb.co/zX9vnpP/0-8.gif" width="200" height="200" alt="0-8" border="0"></a>
+<a href="https://ibb.co/QDmG5LP"><img src="https://i.ibb.co/HhgQJ6t/8-18.gif" width="200" height="200" alt="8-18" border="0"></a>
+<a href="https://ibb.co/WHBNyBF"><img src="https://i.ibb.co/S6VDnV0/18-35.gif" width="200" height="200" alt="18-35" border="0"></a>
